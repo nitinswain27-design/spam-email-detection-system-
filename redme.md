@@ -59,7 +59,7 @@ python ai_spam_detection.py
 ---
 
 ## 👤 Author
-**Rajesh Kumar**  
+**Nitin swain**  
 B.Tech – CSE (AI & ML)
 
 ---
